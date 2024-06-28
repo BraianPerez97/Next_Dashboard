@@ -1,1 +1,1 @@
-NextJS Finant
+NextJS Finantial board. 
